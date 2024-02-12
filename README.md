@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/d21bhbvvvxjgt5l2?svg=true)](https://ci.appveyor.com/project/RomanK75/destructuring)
 # Домашнее задание к лекции «Object, Reflection и Proxy»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
